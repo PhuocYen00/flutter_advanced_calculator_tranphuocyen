@@ -1,15 +1,15 @@
-📱 Advanced Calculator – Flutter Application
+**📱 Advanced Calculator – Flutter Application**
 
-Author: Tran Phuoc Yen
+**Author: Tran Phuoc Yen**
 
-Student ID: 2224802010093
+**Student ID: 2224802010093**
 
-Course: Advanced Mobile Application Development
+**Course: Advanced Mobile Application Development**
 
-Project: Flutter Advanced Calculator
+**Project: Flutter Advanced Calculator**
 
 
-⭐ Overview
+**⭐ Overview**
 
 The Advanced Calculator is a multifunctional Flutter application designed to simulate a modern, feature-rich calculator.
 
@@ -29,7 +29,7 @@ This project demonstrates:
 - UI/UX best practices
 - Logic-level unit testing
 
-✨ Features
+**✨ Features**
 
 **1. Basic Calculator Mode**
 
