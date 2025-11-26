@@ -39,6 +39,7 @@ Unit testing for accurate mathematical logic
 
 ✨ Features
 🔹 1. Basic Calculator Mode
+<img width="544" height="786" alt="image" src="https://github.com/user-attachments/assets/bf680728-bb0f-48c3-9b6d-cf931ce665c9" />
 
 Supports common arithmetic:
 
@@ -51,6 +52,7 @@ Percentage, sign toggle
 Multi-step expressions
 
 🔹 2. Scientific Calculator Mode
+<img width="513" height="771" alt="image" src="https://github.com/user-attachments/assets/04fcd40c-ccbb-463c-96b0-232ea242f51c" />
 
 Includes advanced mathematical functions:
 
@@ -63,6 +65,7 @@ pi, parentheses, nested expressions
 Angle mode toggle (DEG ↔ RAD)
 
 🔹 3. Programmer Calculator Mode
+<img width="516" height="767" alt="image" src="https://github.com/user-attachments/assets/8fd1316a-82f0-4f4b-bfa5-b2103a787d8b" />
 
 Supports developer-oriented number systems:
 
@@ -93,6 +96,7 @@ MC Clear memory
 Memory is saved persistently.
 
 🔹 5. History System
+<img width="509" height="769" alt="image" src="https://github.com/user-attachments/assets/742181d3-6e7b-4c1a-a146-e169f76e1c66" />
 
 Automatically saves all past calculations
 
@@ -103,6 +107,7 @@ Clear-all with confirmation
 Persisted locally
 
 🔹 6. Theme & Settings
+![Uploading image.png…]()
 
 Light / Dark mode
 
@@ -114,47 +119,3 @@ History size configuration
 
 Optional haptic feedback
 
-📂 Project Structure
-flutter_advanced_calculator/
-├── docs
-│   ├── ARCHITECTURE.md
-│   └── TESTING.md
-│
-├── lib
-│   ├── models
-│   │   ├── calculation_history.dart
-│   │   ├── calculator_mode.dart
-│   │   └── calculator_settings.dart
-│   │
-│   ├── providers
-│   │   ├── calculator_provider.dart
-│   │   ├── history_provider.dart
-│   │   └── theme_provider.dart
-│   │
-│   ├── screens
-│   │   ├── calculator_screen.dart
-│   │   ├── history_screen.dart
-│   │   └── settings_screen.dart
-│   │
-│   ├── services
-│   │   └── storage_service.dart
-│   │
-│   ├── utils
-│   │   ├── calculator_logic.dart
-│   │   ├── constants.dart
-│   │   └── expression_parser.dart
-│   │
-│   ├── widgets
-│   │   ├── button_grid.dart
-│   │   ├── calculator_button.dart
-│   │   ├── display_area.dart
-│   │   └── mode_selector.dart
-│   │
-│   └── main.dart
-│
-└── test
-│   └── flutter_test.dart
-│
-├── screenshots/
-├── pubspec.yaml
-└── README.md
