@@ -1,9 +1,13 @@
 📱 Advanced Calculator – Flutter Application
 
 Author: Tran Phuoc Yen
+
 Student ID: 2224802010093
+
 Course: Advanced Mobile Application Development
+
 Project: Flutter Advanced Calculator
+
 
 ⭐ Overview
 
