@@ -1,8 +1,8 @@
-Advanced Calculator – Flutter Application
+**Advanced Calculator – Flutter Application**
 
-Author: Tran Phuoc Yen
+**Author: Tran Phuoc Yen**
 
-Student ID: 2224802010093
+**Student ID: 2224802010093**
 
 
 **1. Overview**
